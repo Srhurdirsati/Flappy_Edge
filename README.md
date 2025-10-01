@@ -1,7 +1,7 @@
 # Flappy_Edge
 This is a bworser extension that supports many modern browsers . It has been made to overcome tireness and boredome during continuous use of browser , it's desogned to take small breaks and have fun . This is the firts demo version wich will be upgraded time to time to next level . It is now smooth , simle and user Friendly ... ENJOY BOYSS
 
-### TOTAL TIME SPENT - 7 HOURS and 45 Minutes 
+### TOTAL TIME SPENT - 7 HOURS and 45 Minutes  + 4 Hours [ I updated after submission ]
 
 > 7 hours Code
 > 45 mins repo and testing
