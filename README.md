@@ -1,9 +1,12 @@
 # Flappy_Edge
-This is a bworser extension that supports many modern browsers . It has been made to overcome tireness and boredome during continuous use of browser , it's desogned to take small breaks and have fun . This is the firts demo version wich will be upgraded time to time to next level . It is now smooth , simle and user Friendly ... ENJOY BOYSS
 
-### TOTAL TIME SPENT - 7 HOURS and 45 Minutes  + 4 Hours [ I updated after submission ]
+Yo Buddys , just finished my " Flappy_Edge " browser extension . This is an extension of flappy bird game but better than normal one , as it's just the game we played so many times in our life , i didn't made a playable version for example . This was very frustrating for me , each time i was getting an error , sometimes no display or popup , etc so I rewrote the full code with comments for the last time and it took complete 12 Hours to build this sht , atlast This was worthed . This includes a user specific leaderboard , great sound effects , bird with fall and rise physics ( animated ) and a start and lose screen , further i'll bring difficulty updates and more birds and backgrounds , a universal leaderboard and much more as i get to know abt what i can add , i'll do so . 
 
-> 7 hours Code
+I created this to overcome the boredom of using browser for a long time , this is better as its smooth , well performance optimized and simple ui and controls . 
+
+### TOTAL TIME SPENT - 7  + 5.5 = 12.7 Hours Hours [ I updated after submission ]
+
+> 7 hours Code + 5 Hours Code
 > 45 mins repo and testing
 
 Web Based Flappy Bird Game Extension
@@ -14,8 +17,11 @@ Web Based Flappy Bird Game Extension
 
 > Click on The Load Unpacked Otpion that will appear after turning on developer mode and then select the unpacked zip file folder , u can get zip from this repo or releases of this repo and it'll be imported in ur Browser , now just enjot that . You can use it as u use all other extension , u'll find the Flappy_Edge Extension in ur browser's extension window . ENJOY !! :D
 
-<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/0258bbd4-797e-4e5a-863e-518bfbf76c5f" />
+<img width="402" height="600" alt="image" src="https://github.com/user-attachments/assets/d56483a6-55a6-4b7e-808f-4ea4e82cf09f" />
 
-<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/9767de43-7fc2-4e3f-9bd5-5d1390eee880" />
+<img width="402" height="600" alt="image" src="https://github.com/user-attachments/assets/400242b8-974b-4fb2-b235-0a09ff873975" />
+
+<img width="402" height="600" alt="image" src="https://github.com/user-attachments/assets/687e9486-7040-4b34-a90b-c2676fadbcc6" />
+
 
 
